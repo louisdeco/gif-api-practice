@@ -1,3 +1,5 @@
+import "./css/styles.css";
+
 const img = document.querySelector("img");
 
 fetch(
